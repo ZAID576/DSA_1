@@ -1,14 +1,14 @@
 // Swapping two variable 1st way
 
-// let a = 10
-// let b = 20
+let a = 10
+let b = 20
 
-// let c = a
-// a = b
-// b = c
+let c = a
+a = b
+b = c
 
-// console.log(a);
-// console.log(b);
+console.log(a);
+console.log(b);
 
 // output = 20 10
 
@@ -16,14 +16,14 @@
 
 //2nd way of swapping two variables
 
-// let a = 10
-// let b = 20
+let a = 10
+let b = 20
 
-// a = a + b
-// b = a - b
-// a = a - b
+a = a + b
+b = a - b
+a = a - b
 
-// console.log(a,b);
+console.log(a,b);
 
 // output 20 10
 
