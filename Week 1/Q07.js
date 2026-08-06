@@ -5,12 +5,12 @@ console.log(Math.abs(-10));
 // 10
 
 
-// -- Math.ceil -  //increase decimal number to the next digit by one
+// -- Math.ceil -  //increase decimal number to the next nearest digit 
 console.log(Math.ceil(10.2));
 // 11
 
 
-// -- Math.floor()  //decrease decimal number to the lower digit by one
+// -- Math.floor()  //decrease decimal number to the lower nearest digit
 console.log(Math.floor(10.9));
 // 10
 
