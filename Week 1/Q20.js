@@ -7,7 +7,7 @@
 // 4) 1–12 ke bahar → Invalid month
 
 let prompt = require("prompt-sync")();
-let month = Number(prompt("Enter month number = "));
+let month = Number(prompt("Enter your month number = "));
 
 let days;
 
